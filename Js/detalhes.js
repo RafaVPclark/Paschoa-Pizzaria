@@ -14,13 +14,13 @@
     let valorProduto = document.querySelector("#valor");
     //Informações para a pizza de calabresa
     if (produto === "Calabresa") {
-      imagem.src = "Img/calabresa.webp";
+      imagem.src = "../Img/calabresa.webp";
       nomeProduto.textContent = "Calabresa";
       valorProduto.textContent = "R$ 49,99";
     }
     //Pizza Portuguesa 
     else if (produto === "Portuguesa") {
-      imagem.src = "Img/portuguesa.webp";
+      imagem.src = "../Img/portuguesa.webp";
       nomeProduto.textContent = "Portuguesa";
       valorProduto.textContent = "R$ 49,99";
     }
