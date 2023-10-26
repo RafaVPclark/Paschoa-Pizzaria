@@ -14,37 +14,37 @@
     let valorProduto = document.querySelector("#valor");
     //Informações para a pizza de calabresa
     if (produto === "Calabresa") {
-      imagem.src = "img/calabresa.webp";
+      imagem.src = "Img/calabresa.webp";
       nomeProduto.textContent = "Calabresa";
       valorProduto.textContent = "R$ 49,99";
     }
     //Pizza Portuguesa 
     else if (produto === "Portuguesa") {
-      imagem.src = "img/portuguesa.webp";
+      imagem.src = "Img/portuguesa.webp";
       nomeProduto.textContent = "Portuguesa";
       valorProduto.textContent = "R$ 49,99";
     }
     //Pizza Muçarela
     else if (produto === "Mucarela") {
-        imagem.src = "img/mucarela.webp";
+        imagem.src = "Img/mucarela.webp";
         nomeProduto.textContent = "Muçarela";
         valorProduto.textContent = "R$ 49,99";
     }
     //Pizza Marguerita
     else if (produto === "Marguerita") {
-        imagem.src = "img/marguerita.webp";
+        imagem.src = "Img/marguerita.webp";
         nomeProduto.textContent = "Marguerita";
         valorProduto.textContent = "R$ 49,99";
     }
     //Pizza Quatro queijos
     else if (produto === "Quatroqueijos") {
-        imagem.src = "img/quatroqueijos.webp";
+        imagem.src = "Img/quatroqueijos.webp";
         nomeProduto.textContent = "Quatro Queijos";
         valorProduto.textContent = "R$ 49,99";
     }
     //Pizza Frango com Catupiry
     else if (produto === "Frangocatupiry") {
-        imagem.src = "img/frangocatupiry.webp";
+        imagem.src = "Img/frangocatupiry.webp";
         nomeProduto.textContent = "Frango com Catupiry";
         valorProduto.textContent = "R$ 49,99";
     }
@@ -54,56 +54,56 @@
 
     //Pizza Pão de alho
     else if (produto === "Paodealho") {
-        imagem.src = "img/paodealho.webp";
+        imagem.src = "Img/paodealho.webp";
         nomeProduto.textContent = "Pão de Alho";
         valorProduto.textContent = "R$ 29,99";
     }
     //Pizza carne com banana
     else if (produto === "Carnebanana") {
-        imagem.src = "img/carnebanana.webp";
+        imagem.src = "Img/carnebanana.webp";
         nomeProduto.textContent = "Carne seca com Banana";
         valorProduto.textContent = "R$ 29,99";
     }
      //Pizza alcachofra
      else if (produto === "Alcachofra") {
-        imagem.src = "img/alcachofra.webp";
+        imagem.src = "Img/alcachofra.webp";
         nomeProduto.textContent = "Alcachofra";
         valorProduto.textContent = "R$ 29,99";
     }
      //Pizza Mexicana
     else if (produto === "Mexicana") {
-        imagem.src = "img/mexicana.webp";
+        imagem.src = "Img/mexicana.webp";
         nomeProduto.textContent = "Mexicana";
         valorProduto.textContent = "R$ 29,99";
     }
      //Pizza Mexicana
      else if (produto === "Hamburguer") {
-        imagem.src = "img/hamburguer.webp";
+        imagem.src = "Img/hamburguer.webp";
         nomeProduto.textContent = "Hamburguer";
         valorProduto.textContent = "R$ 29,99";
     }
     //Pizzas gourmet
      //Pizza Francesa
      else if (produto === "Francesa") {
-        imagem.src = "img/francesa.webp";
+        imagem.src = "Img/francesa.webp";
         nomeProduto.textContent = "Francesa";
         valorProduto.textContent = "R$ 59,99";
     }
      //Pizza Parma com rucula
      else if (produto === "Parmacomrucula") {
-        imagem.src = "img/parmacomrucula.webp";
+        imagem.src = "Img/parmacomrucula.webp";
         nomeProduto.textContent = "Parma com rúcula";
         valorProduto.textContent = "R$ 59,99";
     }
      //Pizza Alho negro
      else if (produto === "Alhonegro") {
-        imagem.src = "img/alhonegro.webp";
+        imagem.src = "Img/alhonegro.webp";
         nomeProduto.textContent = "Alho negro";
         valorProduto.textContent = "R$ 59,99";
     }
      //Pizza Scamorza
      else if (produto === "Scamorza") {
-        imagem.src = "img/scamorza.webp";
+        imagem.src = "Img/scamorza.webp";
         nomeProduto.textContent = "Scamorza";
         valorProduto.textContent = "R$ 59,99";
     }
